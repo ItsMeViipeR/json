@@ -5,6 +5,10 @@ edition = "2021"
 authors = ["ItsMeViipeR"]
 description = "A Rust crate who allows you to use json files easily"
 license = "MIT"
+homepage = "https://github.com/ItsMeViipeR/json"
+repository = "https://github.com/ItsMeViipeR/json"
+keywords = ["json", "ezjson", "ez", "easy", "easyjson", "ezjson-rs", "ezjson-rust", "ezjson-rs", "ezjson-rust"]
+documentation = "https://docs.rs/ezjson"
 
 [dependencies]
 serde = "1.0.152"
